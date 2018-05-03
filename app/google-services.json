@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "564238164303",
+    "firebase_url": "https://messdiary-77a92.firebaseio.com",
+    "project_id": "messdiary-77a92",
+    "storage_bucket": "messdiary-77a92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564238164303:android:84818802e1fc143b",
+        "android_client_info": {
+          "package_name": "com.example.hpuser.mess_diary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564238164303-arrua4d8p4ok04s51inqbm31fj2e525o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hpuser.mess_diary",
+            "certificate_hash": "0faf6d13b9c6e539c29f9f9f5ac0bb2b9b1d327f"
+          }
+        },
+        {
+          "client_id": "564238164303-354he73e09jab11dif2jomlf5oekut9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpay3PzrzNAvglE04cYP8InV05U8CdDgc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564238164303-354he73e09jab11dif2jomlf5oekut9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
